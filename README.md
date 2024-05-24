@@ -1,1 +1,1 @@
-Ein Testprojekt, um GitHub zum ersten Mal zu verstehen
+A test project for GitHub
